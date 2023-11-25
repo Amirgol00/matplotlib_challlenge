@@ -30,4 +30,4 @@ NumPy
 Spicy.stats
 
 
-Ensure these packages are installed in your Python environment. Also, you can change the file paths for the csv files if needed
+Ensure these packages are installed in your Python environment. Also, you can change the file paths for the csv files if needed.
