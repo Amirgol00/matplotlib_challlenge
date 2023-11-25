@@ -10,7 +10,7 @@ This project, "Pymaceuticals," is a Python-based analysis focused on the effects
 
 Features
 
-Data Analysis: Detailed exploration and analysis of [ pharmaceutical data and animal (mouse) data].
+Data Analysis: Detailed exploration and analysis of pharmaceutical data and animal (mouse) data.
 
 Visualization: Implementation of various data visualization techniques using Pandas and Matplotlib to represent the findings effectively.
 
