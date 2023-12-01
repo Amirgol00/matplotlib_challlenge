@@ -12,7 +12,7 @@ This project, "Pymaceuticals," is a Python-based analysis focused on the effects
 
 Data Analysis: Detailed exploration and analysis of pharmaceutical data and animal (mouse) data.
 
-Visualization: Implementation of various data visualization techniques using Pandas and Matplotlib to represent the findings effectively.
+Visualization: Implementation of various data visualization techniques using Pandas and Matplotlib to represent the findings effectively. Various visualizations such as pieplots, linear regression, and scatter plots are created show information from the mouse data. 
 
 Statistical Testing: Utilization of statistical methods to validate the findings and find outliers in the data for specific treatments.
 
